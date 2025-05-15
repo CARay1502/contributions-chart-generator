@@ -1,4 +1,4 @@
-# 📈 GitHub Contribution Faker
+# 📈 GitHub Contribution Graph Filler
 
 Ever wanted to light up your GitHub contributions graph? This simple Python tool helps you do exactly that — by generating backdated commits and pushing them to a public repository.
 
