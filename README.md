@@ -68,7 +68,7 @@ All commits will be pushed to GitHub
 
 If you get an error first make sure that your github username and email are configured correctly on your local machine: 
 
-Use 
+Use git config command to configure email and name. 
 ```bash
 git config --global user.name "Your name"
 git config --global user.email "your.email@example.com" #replace with github profile email
