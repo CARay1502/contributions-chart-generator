@@ -40,9 +40,10 @@ Clone this repo or copy `contribute.py` into your working directory.
 Then edit the top of the script to match your info:
 
 ```python
-GITHUB_REPO = "https://github.com/YOUR_USERNAME/github-activity.git"
-USER_NAME = "YOUR_USERNAME"
-USER_EMAIL = "your.email@example.com"
+GITHUB_REPO = "https://github.com/YOUR_USERNAME/github-activity.git"  # change this to repo url
+LOCAL_REPO = "temp-repo" #leave or change to any name you want
+USER_NAME = "YOUR_USERNAME"  # change this 
+USER_EMAIL = "your.email@example.com"  # change this
 ```
 
 ### 3. Run it 
@@ -62,3 +63,15 @@ Commits will be made with backdated timestamps
 All commits will be pushed to GitHub
 
 🕒 Wait a few minutes, then check your GitHub profile to see the new green squares on your contributions chart!
+
+### Troubleshooting
+
+If you get an error first make sure that your github username and email are configured correctly on your local machine: 
+
+Use 
+```bash
+git config --global user.name "Your name"
+git config --global user.email "your.email@example.com" #replace with github profile email
+```
+
+If this does not work, consult ChatGPT like I did. Good luck! 
