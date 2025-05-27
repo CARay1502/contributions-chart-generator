@@ -1,5 +1,7 @@
 # 📈 GitHub Contribution Graph Filler
 
+![Github Contributions Screenshot](https://github.com/CARay1502/contributions-chart-generator/blob/main/Screenshot%202025-05-26%20111042.png)
+
 Ever wanted to light up your GitHub contributions graph? This simple Python tool helps you do exactly that — by generating backdated commits and pushing them to a public repository.
 
 > 💡 Great for testing, demonstrations, or simply boosting your green square game.
