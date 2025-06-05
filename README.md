@@ -52,7 +52,7 @@ The GUI version lets you configure the script visually with:
 python gui.py
 ```
 
-### 💻 CLI Version 
+## 💻 CLI Version 
 
 ### 1. Create a Public Repository
 
