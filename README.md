@@ -1,8 +1,11 @@
 # 📈 GitHub Contribution Graph Filler
 
 ![Github Contributions Screenshot](https://github.com/CARay1502/contributions-chart-generator/blob/main/Screenshot%202025-05-26%20111042.png)
+![Github Contributions GUI Screenshot](https://github.com/CARay1502/contributions-chart-generator/blob/main/GUI%Screenshot.png)
 
-Ever wanted to light up your GitHub contributions graph? This simple Python tool helps you do exactly that — by generating backdated commits and pushing them to a public repository.
+Ever wanted to light up your GitHub contributions graph? This Python based repo has several tools to help you fill up and keep your Contribution graphs beautiful! 
+There are a few tools in here to help you: 
+- 
 
 > 💡 Great for testing, demonstrations, or simply boosting your green square game.
 
@@ -15,6 +18,7 @@ Ever wanted to light up your GitHub contributions graph? This simple Python tool
 - ⌛ Commits are **backdated** using `GIT_AUTHOR_DATE` and `GIT_COMMITTER_DATE`
 - 🛠️ Fully customizable
 - ✅ Uses plain Python and Git — **no external libraries**
+- 💻 GUI version and CLI version **recommend using 'gui.py' first**
 
 ---
 
@@ -27,7 +31,29 @@ Ever wanted to light up your GitHub contributions graph? This simple Python tool
 
 ---
 
-## 🛠️ Setup
+# 🛠️ Setup
+
+## 🖼️ GUI Version (Recommended)
+
+> 💡 Prefer a point-and-click interface? Use `gui.py`!
+
+The GUI version lets you configure the script visually with:
+- Input fields for GitHub repo, email, commit range, and more
+- Git branch selection
+- Scrollable live log output to monitor progress
+- A “Run Script” button to launch the automation
+
+### ▶️ How to Use the GUI
+
+1. Download this repository to your machine. 
+2. Ensure you have Python and Git installed on your machine.
+3. Open a terminal and run:
+
+```bash
+python gui.py
+```
+
+### 💻 CLI Version 
 
 ### 1. Create a Public Repository
 
