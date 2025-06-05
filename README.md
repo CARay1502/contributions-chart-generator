@@ -3,8 +3,7 @@
 ![Github Contributions Screenshot](https://github.com/CARay1502/contributions-chart-generator/blob/main/Screenshot%202025-05-26%20111042.png)
 ![Github Contributions GUI Screenshot](https://github.com/CARay1502/contributions-chart-generator/blob/main/GUI%20Screenshot.png)
 
-Ever wanted to light up your GitHub contributions graph? This Python based repo has several tools to help you fill up and keep your Contribution graphs beautiful! 
-There are a few tools in here to help you: 
+Ever wanted to light up your GitHub contributions graph? This Python based repo has several tools to help you!
 - 
 
 > 💡 Great for testing, demonstrations, or simply boosting your green square game.
