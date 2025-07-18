@@ -51,6 +51,16 @@ The GUI version lets you configure the script visually with:
 ```bash
 python gui.py
 ```
+4. Fill out
+   - Github Repo URL (Repo to create commits in -> new one)
+   - Local Repo Name (leave as "tempo-repo")
+   - Github Username (make sure github username is same as config on local machine **see below**)
+   - Email (Github Account Email)
+   - Git Branch (leave as "main")
+   - Days back (how many days of commit history: Max = 365)
+   - Max commits per day (will chose between 0 and max each day for commits: Recommended = 12)
+5. Click "Run script" button
+6. Check commit chart (may take a few minutes to update)
 
 ## 💻 CLI Version 
 
