@@ -52,14 +52,14 @@ The GUI version lets you configure the script visually with:
 ```bash
 python gui.py
 ```
-4. Fill out:
+4. Fill out text inputs:
 ```python
-GITHUB_REPO = "https://github.com/YOUR_USERNAME/github-activity.git"  # change this to repo url
-LOCAL_REPO = "temp-repo" #leave or change to any name you want
-USER_NAME = "YOUR_USERNAME"  # change this 
-USER_EMAIL = "your.email@example.com"  # change this
-DAYS_BACK = 365 # configure how many days history from current to write commits to (max 365)
-MAX_COMMITS_PER_DAY = 3 # configure this to the max desired commits per day (recommend no more than 15)
+Github Repo URL = "https://github.com/YOUR_USERNAME/github-activity.git"  # change this to repo url
+Local Repo Name = "temp-repo" #leave or change to any name you want
+Username = "YOUR_USERNAME"  # change this 
+Email = "your.email@example.com"  # change this
+Days Back = 365 # configure how many days history from current to write commits to (max 365)
+Max commits Per Day = 3 # configure this to the max desired commits per day (recommend no more than 15)
 ```
 5. Click "Run script" button
 6. Check commit chart (may take a few minutes to update)
