@@ -44,9 +44,10 @@ The GUI version lets you configure the script visually with:
 
 ### ▶️ How to Use the GUI
 
-1. Download this repository to your machine. 
-2. Ensure you have Python and Git installed on your machine.
-3. Open a terminal and run:
+1. Create a public repository via Github.com.
+2. Download this repository to your machine.
+3. Ensure you have Python and Git installed on your machine.
+4. Open a terminal and run:
 
 ```bash
 python gui.py
@@ -64,14 +65,14 @@ python gui.py
 
 ## 💻 CLI Version 
 
-### 1. Create a Public Repository
+### 1. Create a public repository
 
 Go to [github.com/new](https://github.com/new) and create a **public** repo (e.g. `github-activity`).  
 Do not initialize it with a README.
 
 ---
 
-### 2. Configure the Script
+### 2. Configure the script
 
 Clone this repo or copy `contribute.py` into your working directory.  
 Then edit the top of the script to match your info:
