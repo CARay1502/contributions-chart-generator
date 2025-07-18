@@ -82,6 +82,8 @@ GITHUB_REPO = "https://github.com/YOUR_USERNAME/github-activity.git"  # change t
 LOCAL_REPO = "temp-repo" #leave or change to any name you want
 USER_NAME = "YOUR_USERNAME"  # change this 
 USER_EMAIL = "your.email@example.com"  # change this
+DAYS_BACK = 365 # configure how many days history from current to write commits to (max 365)
+MAX_COMMITS_PER_DAY = 3 # configure this to the max desired commits per day (recommend no more than 15)
 ```
 
 ### 3. Run it 
